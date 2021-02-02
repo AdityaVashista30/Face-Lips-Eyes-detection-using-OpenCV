@@ -1,7 +1,7 @@
 actionlib==1.12.0
 angles==1.9.12
 asn1crypto==0.23.0
-bleach==1.5.0
+bleach==3.3.0
 bondpy==1.8.5
 camera-calibration==1.15.0
 camera-calibration-parsers==1.11.13
