@@ -48,7 +48,7 @@ jupyter-core==4.4.0
 kdl-parser-py==1.13.1
 laser-geometry==1.6.5
 line-profiler==2.1.2
-lxml==4.1.1
+lxml==4.6.5
 Markdown==2.6.10
 MarkupSafe==1.0
 matplotlib==2.1.1
